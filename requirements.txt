@@ -8,3 +8,4 @@ matplotlib
 scikit-learn
 st_clickable_images
 seaborn
+WordCloud
